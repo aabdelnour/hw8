@@ -11,3 +11,4 @@ For this assignment I want you to watch the following two videos and create your
 
 1.  Put the screenshot of your image in your Docker account here.
 ![Docker Screenshot](dockerscreenshot.png)
+![Image in Docker Screenshot](hw8.png)
